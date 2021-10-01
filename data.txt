@@ -1,0 +1,10 @@
+address	số 1, nguyễn huệ, phường 1, thành phố cao lãnh, đồng tháp
+address	1/5 quang trung, khu phố 5, thị trấn hóc môn, huyện hóc môn, tp hồ chí minh
+address	d.c.l24371,s:ba vì,h kon plông,tỉnh sóc trăng
+address	số 11 trương quốc dung, phường 08, quận phú nhuận, tp hồ chí minh
+address	số 02, tổ 14, đường lưu quý an, phường trưng trắc, thị xã phúc yên, vĩnh phúc
+company	doanh nghiệp tư nhân nguyễn lâm đồng tháp
+company	công ty trách nhiệm hữu hạn một thành viên kỹ thuật và xây dựng an phước thịnh
+company	công ty tnhh dịch vụ vận tải thương mịa tổng hợp sơn trà
+company	công ty tnhh tm dv quảng cáo hoa việt
+company	công ty cổ phần đầu tư xuất nhập khẩu tây nguyên
